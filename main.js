@@ -9,47 +9,29 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Symphony",
-    name: "Clean Bandit ft. Zara Larsson",
+    title: "500 graus thalles",
+    name: "Click vs separados LR",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Clean-Bandit-Symphony.mp3",
+      "musicas/graus thales roberto guia click em LR.mp3",
   },
   {
-    title: "Pawn It All",
-    name: "Alicia Keys",
+    title: "Geração que dança",
+    name: "Click vs separados LR",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
+      "musicas/geração que dança click guia em LR.mp3",
   },
   {
-    title: "Seni Dert Etmeler",
-    name: "Madrigal",
+    title: "Único fhop",
+    name: "Click vs separados LR",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
-  },
-  {
-    title: "Instant Crush",
-    name: "Daft Punk ft. Julian Casablancas",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
-  },
-  {
-    title: "As It Was",
-    name: "Harry Styles",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
+      "musicas/único G click vs LR.mp3",
   },
 
   {
-    title: "Physical",
-    name: "Dua Lipa",
+    title: "Vazio",
+    name: "Vazio",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
-  },
-  {
-    title: "Delicate",
-    name: "Taylor Swift",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+      "",
   },
 ];
 
