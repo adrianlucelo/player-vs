@@ -9,45 +9,26 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "500 graus thalles",
-    name: "Click vs separados LR",
-    source:
-      "musicas/graus thales roberto guia click em LR.mp3",
-  },
-  {
-    title: "Geração que dança",
-    name: "Click vs separados LR",
-    source:
-      "musicas/geração que dança click guia em LR.mp3",
-  },
-  {
-    title: "Único fhop",
-    name: "Click pad separados LR",
-    source:
-      "musicas/Único fhop  pad click LR.mp3",
-  },
-  {
     title: "Jesus em tua presença",
-    name: "Click vs separados LR",
+    name: "Domingo",
     source:
-      "musicas/jesus em tua presença guia click LR.mp3",
+      "musicas/jesus em tua precença .mp3",
   },
   {
     title: "A boa parte",
-    name: "Click vs separados LR",
+    name: "Domingo",
     source:
-      "musicas/a boa parte click vs LR.mp3",
+      "musicas/A boa parte .mp3",
   },
   {
     title: "No meio dos louvores",
-    name: "Click vs separados LR",
+    name: "Domingo",
     source:
       "musicas/no meio dos louvores .mp3",
   },
-
   {
     title: "Jesus o plano perfeito",
-    name: "Click pad separados LR",
+    name: "Domingo",
     source:
       "musicas/jesus o plano perfeito click pad LR.mp3",
   },
