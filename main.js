@@ -9,28 +9,22 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Jesus em tua presença",
-    name: "Domingo",
+    title: "alfa e ômega",
+    name: "vs",
     source:
-      "musicas/jesus em tua precença .mp3",
+      "musicas/alfa e ômega.mp3",
   },
   {
-    title: "A boa parte",
-    name: "Domingo",
+    title: "Existe um rio",
+    name: "vs",
     source:
-      "musicas/A boa parte .mp3",
+      "musicas/Existe um rio.mp3",
   },
   {
-    title: "No meio dos louvores",
-    name: "Domingo",
+    title: "canção do apocalipse",
+    name: "vs",
     source:
-      "musicas/no meio dos louvores .mp3",
-  },
-  {
-    title: "Jesus o plano perfeito",
-    name: "Domingo",
-    source:
-      "musicas/jesus o plano perfeito click pad LR.mp3",
+      "musicas/canção apocalipse.mp3",
   },
 ];
 
