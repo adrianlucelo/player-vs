@@ -9,22 +9,29 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "alfa e ômega",
-    name: "vs",
-    source:
-      "musicas/alfa e ômega.mp3",
-  },
-  {
     title: "Existe um rio",
     name: "vs",
     source:
-      "musicas/Existe um rio.mp3",
+      "musicas/Existe um rio  o correto.mp3",
   },
   {
     title: "canção do apocalipse",
     name: "vs",
     source:
-      "musicas/canção apocalipse.mp3",
+      "musicas/canção ao apocalipse.mp3",
+  },
+  
+  {
+    title: "Existe um rio",
+    name: "culto domingo",
+    source:
+      "musicas/Existe um rio  o correto.mp3",
+  },
+  {
+    title: "canção do apocalipse",
+    name: "culto domingo",
+    source:
+      "musicas/canção ao apocalipse.mp3",
   },
 ];
 
