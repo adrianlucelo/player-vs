@@ -9,29 +9,35 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Existe um rio",
-    name: "vs",
+    title: "Diente de ti",
+    name: "Culto sabádo",
     source:
-      "musicas/Existe um rio  o correto.mp3",
+      "musicas/Diante de ti .mp3",
   },
   {
-    title: "canção do apocalipse",
-    name: "vs",
+    title: "Os que confiam",
+    name: "culto sabádo",
     source:
-      "musicas/canção ao apocalipse.mp3",
+      "musicas/os que confiam.mp3",
   },
   
   {
-    title: "Existe um rio",
+    title: "Tu és bom",
     name: "culto domingo",
     source:
-      "musicas/Existe um rio  o correto.mp3",
+      "musicas/Tu és bom .mp3",
   },
   {
-    title: "canção do apocalipse",
+    title: "Tua palavra",
     name: "culto domingo",
     source:
-      "musicas/canção ao apocalipse.mp3",
+      "musicas/Tua palavra .mp3",
+  },
+  {
+    title: "Vem me buscar",
+    name: "culto domingo",
+    source:
+      "musicas/Vem me buscar .mp3",
   },
 ];
 
