@@ -9,16 +9,16 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Diente de ti",
+    title: "pad E",
     name: "Culto sabádo",
     source:
-      "musicas/Diante de ti .mp3",
+      "musicas/Pad E.mp3",
   },
   {
-    title: "Os que confiam",
+    title: "pad A",
     name: "culto sabádo",
     source:
-      "musicas/os que confiam.mp3",
+      "musicas/Pad A.mp3",
   },
   
   {
